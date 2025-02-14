@@ -9,3 +9,4 @@ HTML (HyperText Markup Language):
 > Dinamik ve etkileşimli özellikler için JavaScript ile birlikte çalışır.
 
 ![Uploading image.png…]()
+
